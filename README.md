@@ -28,8 +28,8 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/MDAmir159/Auth-Server-Management-Task2.git
+cd Auth-Server-Management-Task2
 ```
 
 ### Install Dependencies
