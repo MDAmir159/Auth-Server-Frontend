@@ -1,7 +1,8 @@
 # Auth Server Management
 
-Front end implementation for the task 2.
+Coding assessment for Nerdevs recruitment process.
 
+See the backend repository [here](https://github.com/MDAmir159/Auth-Server-Management-Backend).
 ## Features
 
 - User authentication (login, signup)
