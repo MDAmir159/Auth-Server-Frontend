@@ -59,7 +59,7 @@ The project uses local storage to keep track of user authentication. The key-val
 ```
 
 ### Project Structure
-A brief overview of the project structure:
+A brief overview of the project structure (mentioned only the necessary ones):
 ```
 .
 ├── public
