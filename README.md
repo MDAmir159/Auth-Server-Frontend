@@ -1,4 +1,4 @@
-# Auth Server Management
+# Auth Server Frontend
 
 Coding assessment for Nerdevs recruitment process.
 
@@ -29,7 +29,7 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/MDAmir159/Auth-Server-Management-Frontend.git
+git clone https://github.com/MDAmir159/Auth-Server-Frontend.git
 cd Auth-Server-Management-Task2
 ```
 
