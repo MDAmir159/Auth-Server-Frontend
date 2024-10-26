@@ -2,7 +2,7 @@
 
 Coding assessment for Nerdevs recruitment process.
 
-See the backend repository [here](https://github.com/MDAmir159/Auth-Server-Management-Backend).
+See the backend repository [here](https://github.com/MDAmir159/Auth-Server-Backend).
 ## Features
 
 - User authentication (login, signup)
