@@ -66,11 +66,14 @@ A brief overview of the project structure:
 ├── src
 │   ├── assets
 │   ├── components
+│   ├── router
+│   │   ├── index.ts
 │   ├── views
-│   │   ├── Home.vue
-│   │   ├── Login.vue
-│   │   ├── Signup.vue
-│   │   └── Activate.vue
+│   │   ├── HomeView.vue
+│   │   ├── LoginView.vue
+│   │   ├── SignupView.vue
+│   │   ├── AboutView.vue
+│   │   └── ActivateView.vue
 │   ├── App.vue
 │   └── main.ts
 ├── package.json
