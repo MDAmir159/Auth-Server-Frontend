@@ -29,7 +29,7 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/MDAmir159/Auth-Server-Management-Task2.git
+git clone https://github.com/MDAmir159/Auth-Server-Management-Frontend.git
 cd Auth-Server-Management-Task2
 ```
 
